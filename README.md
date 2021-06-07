@@ -1,0 +1,2 @@
+# ckad
+Notes for CKAD
